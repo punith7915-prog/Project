@@ -1,6 +1,6 @@
 📊 Sales Performance Dashboard - Power BI Project
 
-![Dashboard Preview](screenshots/dashboard_final.png)
+[Dashboard Preview](Screenshot 2026-02-17 095303.png)
 
 ## 🎯 Project Overview
 An interactive Power BI dashboard providing comprehensive sales analytics and business intelligence insights for Q1 2024 order management data. This project demonstrates end-to-end data visualization capabilities, from raw data processing to actionable business insights.
