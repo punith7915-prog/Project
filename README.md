@@ -1,11 +1,11 @@
-📊 Sales Performance Dashboard - Power BI Project
+## Sales Performance Dashboard - Power BI Project
 
 https://github.com/punith7915-prog/Project/blob/main/Screenshot%202026-02-17%20095303.png
 
-## 🎯 Project Overview
+##  Project Overview
 An interactive Power BI dashboard providing comprehensive sales analytics and business intelligence insights for Q1 2024 order management data. This project demonstrates end-to-end data visualization capabilities, from raw data processing to actionable business insights.
 
-## 📊 Key Metrics at a Glance
+## Key Metrics at a Glance
 - **Total Revenue**: ₹15,298
 - **Total Orders**: 31
 - **Average Revenue per Order**: ₹493
@@ -26,9 +26,9 @@ sales-performance-dashboard/
 └── README.md                        # This file
 ```
 
-## 🚀 Features
+##  Features
 
-### 📈 Visual Components
+###  Visual Components
 
 #### 1. **Key Performance Indicators (KPIs)**
 - Large, prominent cards displaying critical metrics
@@ -79,12 +79,12 @@ sales-performance-dashboard/
   - 🚚 Shipped: 12.90%
   - ❌ Cancelled: 6.45%
 
-### 🎛️ Interactive Filters
+### Interactive Filters
 - **Region**: East, North, South, West, NA
 - **Status**: Completed, Pending, Shipped, Cancelled
 - Cross-filtering enabled across all visuals
 
-## 📊 Dataset Details
+##  Dataset Details
 
 ### Source Data Specifications
 - **File**: Sales_Data.xlsx
@@ -107,7 +107,7 @@ sales-performance-dashboard/
 | Sales Rep | Text | Assigned sales representative |
 | Status | Text | Order status (Completed/Pending/Shipped/Cancelled) |
 
-## 🛠️ Technical Implementation
+##  Technical Implementation
 
 ### Power BI Features Used
 - ✅ Data modeling and relationships
@@ -150,7 +150,7 @@ RETURN
     DIVIDE(CurrentMonth - PreviousMonth, PreviousMonth, 0)
 ```
 
-## 📈 Key Business Insights
+##  Key Business Insights
 
 ### 🔍 Analysis Findings
 
